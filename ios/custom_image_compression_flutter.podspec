@@ -3,7 +3,7 @@
 # Run `pod lib lint image_compression_flutter.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'image_compression_flutter'
+  s.name             = 'custom_image_compression_flutter'
   s.version          = '1.0.0'
   s.summary          = 'Flutter image compression and resize for Mobile, Desktop and Web. Support format JPG, PNG, WEBP.'
   s.description      = <<-DESC

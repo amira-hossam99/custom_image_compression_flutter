@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:io';
 
 import 'package:image_compression/image_compression.dart' as ic;
-import 'package:image_compression_flutter/flutter_image_compress.dart';
+import 'package:custom_image_compression_flutter/flutter_image_compress.dart';
 
 import 'configurations.dart';
 import 'dart_compressor.dart';

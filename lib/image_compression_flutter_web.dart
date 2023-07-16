@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/services.dart';
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
-import 'package:image_compression_flutter/src/compressor_html.dart';
+import 'package:custom_image_compression_flutter/src/compressor_html.dart';
 
 import 'image_compression_flutter.dart';
 import 'src/extension.dart';

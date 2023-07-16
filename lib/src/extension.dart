@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 
-import 'package:image_compression_flutter/image_compression_flutter.dart';
+import 'package:custom_image_compression_flutter/image_compression_flutter.dart';
 
 extension XFileExtension on XFile {
   Future<ImageFile> get asImageFile async {
